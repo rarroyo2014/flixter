@@ -74,3 +74,7 @@ end
 gem 'simple_form'
 
 gem 'devise'
+
+gem 'stripe'
+
+gem 'ranked-model'
