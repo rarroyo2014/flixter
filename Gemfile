@@ -78,3 +78,5 @@ gem 'devise'
 gem 'stripe'
 
 gem 'ranked-model'
+
+gem 'carrierwave', '~> 2.0'
