@@ -20,10 +20,6 @@ class Instructor::CoursesController < ApplicationController
     @course = Course.find(params[:id])
   end
 
-
-  def show
-  end
-
   private
 
 
