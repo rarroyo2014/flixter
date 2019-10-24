@@ -16,7 +16,7 @@ class Instructor::CoursesController < ApplicationController
     end
   end
 
- def show
+  def show
     @course = Course.find(params[:id])
   end
 
