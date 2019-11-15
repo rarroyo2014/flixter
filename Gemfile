@@ -92,3 +92,5 @@ gem 'carrierwave-aws'
 gem 'stripe'
 
 gem 'jquery-ui-rails'
+
+gem "font-awesome-rails"
